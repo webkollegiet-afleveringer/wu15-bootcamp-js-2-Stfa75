@@ -4,3 +4,6 @@
 @import 'atoms.css';
 @import 'molecules.css';
 @import 'organisms.css';
+@import 'some-ie7.css.';
+@import 'some-embedded.css';
+
